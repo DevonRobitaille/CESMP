@@ -1,0 +1,13 @@
+.publicationContainer>.ql-container.ql-snow {
+    max-width: 8.5in;
+    min-height: 11in;
+    border: none;
+    box-shadow: none;
+    background-color: transparent;
+    padding: 0;
+    margin: 0;
+}
+
+.publicationContainer>.ql-toolbar {
+    display: none;
+}

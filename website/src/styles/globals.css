@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .NavButtons {
+        @apply items-center space-x-1 text-sm font-semibold p-2 hover:bg-gray-100 cursor-pointer rounded-sm hidden md:flex
+    }
+
+    .icon {
+        @apply h-9 w-6 lg:w-9 cursor-pointer rounded-sm lg:p-1 lg:hover:bg-gray-100
+    }
+
+    .authorButton {
+        @apply flex items-center text-gray-900 text-xs bg-green-400 border rounded-xl pt-1 pb-1 pl-3 pr-3 hover:bg-green-300 hover:text-gray-900 font-semibold
+    }
+
+    .focusAreaButton {
+        @apply flex items-center text-gray-900 text-xs bg-yellow-400 border rounded-xl pt-1 pb-1 pl-3 pr-3 hover:bg-yellow-300 hover:text-gray-900 font-semibold
+    }
+
+    .mediumButton {
+        @apply flex items-center text-gray-900 text-xs bg-blue-400 border rounded-xl pt-1 pb-1 pl-3 pr-3 hover:bg-blue-300 hover:text-gray-900 font-semibold
+    }
+
+    .emergencyButton {
+        @apply flex items-center text-gray-900 text-xs bg-purple-400 border rounded-xl pt-1 pb-1 pl-3 pr-3 hover:bg-purple-300 hover:text-gray-900 font-semibold
+    }
+
+    .yearButton {
+        @apply flex items-center text-gray-900 text-xs bg-pink-400 border rounded-xl pt-1 pb-1 pl-3 pr-3 hover:bg-pink-300 hover:text-gray-900 font-semibold
+    }
+}

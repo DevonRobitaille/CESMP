@@ -1,0 +1,3 @@
+20220620	11:02:16	b51dc684-f0ac-412c-bddb-c1984072e897	TypeError: req.roles.map is not a function
+20220620	11:03:07	9eab63dd-dbcb-4749-80fc-6f79bf637cde	TypeError: req.roles.map is not a function
+20220620	11:04:25	64f0d668-1f1f-4275-9e42-c18291a4ab52	TypeError: rolesArray.includes(...).find is not a function
