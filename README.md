@@ -55,10 +55,10 @@ ___
 <img src='./imgs/Library Filter Page.png'/>
 <hr/>
 <p>https://url.com/library (view of the create publication button)</p>
-<img src='./imgs/Article Page.png'/>
+<img src='./imgs/Create Article Page.png'/>
 <hr/>
 <p>https://url.com/libary/publication (view of a published article)</p>
-<img src='./imgs/New Report Page.png'/>
+<img src='./imgs/Article Page.png'/>
 <hr/>
 <p>https://url.com/folder (view of all the documents editable by a user)</p>
 <img src='./imgs/Folder Page.png'/>
